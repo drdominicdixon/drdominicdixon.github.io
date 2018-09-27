@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Dominic Dixon, Dominic F Dixon</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on Dominic Dixon, Dominic F Dixon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development</title>
+      <link>http://example.org/categories/development/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kleptocracy</title>
+      <link>http://example.org/categories/kleptocracy/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/kleptocracy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minorities</title>
+      <link>http://example.org/categories/minorities/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/minorities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pornography</title>
+      <link>http://example.org/categories/pornography/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/pornography/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
